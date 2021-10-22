@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayflower420
+- 👋 Hi, I’m mayank
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to learn more about analysis
